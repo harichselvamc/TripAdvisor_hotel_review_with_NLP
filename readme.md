@@ -1,6 +1,5 @@
 # TripAdvisor Hotel Review Analysis with NLP
-
-![GitHub repo size](https://img.shields.io/github/repo-size/harichselvamc/TripAdvisor_hotel_review_with_NLP) ![GitHub license](https://img.shields.io/github/license/harichselvamc/TripAdvisor_hotel_review_with_NLP) ![GitHub last commit](https://img.shields.io/github/last-commit/harichselvamc/TripAdvisor_hotel_review_with_NLP)
+![GitHub last commit](https://img.shields.io/github/last-commit/harichselvamc/TripAdvisor_hotel_review_with_NLP)
 
 This repository contains the Jupyter Notebook `main.ipynb` for analyzing TripAdvisor hotel reviews using Natural Language Processing (NLP). The accompanying dataset, `tripadvisor_hotel_reviews.csv`, is included for reference.
 
